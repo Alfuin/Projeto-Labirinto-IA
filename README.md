@@ -63,6 +63,4 @@ busca-caminhos/
 ## Grupo
 
 > Mateus da Silva Lopes - R0497H2
-> Felipe Martins Frateschi - R108EG6
 > Eduardo Ferreira Silva dos Santos - R024FI0
-> Eduardo Okabe Sato Scarparo - G9934B5
